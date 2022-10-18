@@ -1,0 +1,14 @@
+{
+  "name": "finapi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:caioadauri/finapi.git",
+  "author": "Caio Adauri Haritov Gomes <caioadaurigomes@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

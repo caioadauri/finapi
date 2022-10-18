@@ -5,10 +5,14 @@
   "repository": "git@github.com:caioadauri/finapi.git",
   "author": "Caio Adauri Haritov Gomes <caioadaurigomes@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
   "devDependencies": {
     "nodemon": "^2.0.20"
   },
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "uuid": "^9.0.0"
   }
 }
